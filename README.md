@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-    <img src="carbon.png" width="800" alt="zkqw3r card">
+    <img src="card.png" width="800" alt="zkqw3r card">
 </p>
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -57,4 +57,5 @@ root@zkqw3r:~# exit
 <br>
 Are you a 1 or a 0?
 </details>
+
 
