@@ -32,10 +32,10 @@
 <h3 align="left">> current_process</h3>
 
 ```diff
-! PID  USER   COMMAND               STATUS
-+ 1337 zkqw3r learning_algorithms   [RUNNING]
-+ 1338 zkqw3r building_pet_projects [ACTIVE]
-+ 1339 zkqw3r learning_golang       [RUNNING]
+! PID  USER   COMMAND               STATUS       
++ 1337 zkqw3r learning_algorithms   [RUNNING]    
++ 1338 zkqw3r building_pet_projects [ACTIVE]     
++ 1339 zkqw3r learning_golang       [RUNNING]    
 + 1340 zkqw3r exploring_backend     [LOADING 40%]
 ```
 
@@ -64,4 +64,5 @@ root@zkqw3r:~# exit
 </details>
 
 <!-- Searching for hidden data... 0 results found. -->
+
 
