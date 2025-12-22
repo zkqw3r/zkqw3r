@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-top:50px">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=900&size=60&pause=100&color=00FF41&width=435&height=100&vCenter=true&lines=Hello+friend.;This+is+zkqw3r." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=FF5050C9&width=435&height=80&lines=Hello+friend;This+is+zkqw3r" alt="Typing SVG" />
 </h1>
 
 <br/>
@@ -31,7 +31,7 @@
 + 1337  zkqw3r  learning_algorithms   [RUNNING]
 + 1338  zkqw3r  building_pet_projects [ACTIVE]
 + 1339  zkqw3r  learning_golang       [RUNNING]
-- 1340  zkqw3r  exploring_backend     [LOADING 40%]
++ 1340  zkqw3r  exploring_backend     [LOADING 40%]
 ```
 
 <h3 align="left">> сonnect</h3>
@@ -57,5 +57,6 @@ root@zkqw3r:~# exit
 <br>
 Are you a 1 or a 0?
 </details>
+
 
 
