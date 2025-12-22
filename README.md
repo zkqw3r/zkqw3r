@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="carbon.png" width="800" alt="zkqw3r card">
+  <img src="card.png" width="800" alt="zkqw3r card">
 </p>
 
 <div align="center">
@@ -64,3 +64,4 @@ root@zkqw3r:~# exit
 </details>
 
 <!-- Searching for hidden data... 0 results found. -->
+
