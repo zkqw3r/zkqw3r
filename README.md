@@ -8,7 +8,9 @@
     <img src="card.png" width="800" alt="zkqw3r card">
 </p>
 
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 <div align="center">
   <img src="https://leetcode-status.vercel.app/api/card/zkqw3r?theme=dark&gradient_start=%23ff0055&gradient_end=%2300ccff" height="150" alt="stats" />
@@ -57,6 +59,7 @@ root@zkqw3r:~# exit
 <br>
 Are you a 1 or a 0?
 </details>
+
 
 
 
