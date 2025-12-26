@@ -19,11 +19,4 @@
   <li>Backend development with Go</li>
 </ul>
 
-<h3 align="left">Connect</h3>
-<p align="left">
-  <a href="mailto:smend702@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-</p>
-
 <!-- Searching for hidden data... 0 results found. -->
