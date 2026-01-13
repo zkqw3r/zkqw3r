@@ -4,8 +4,6 @@
   <img src="profile.gif" width="100%" alt="profile.gif">
 </p>
 
-<br/>
-
 <h3 align="left">Stack</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,5 +16,3 @@
   <li>Algorithms & data structures</li><br/>
   <li>Backend development with Go</li>
 </ul>
-
-<!-- Searching for hidden data... 0 results found. -->
