@@ -1,7 +1,7 @@
 <h1 align="center">zkqw3r</h1>
 
 <p align="center">
-  <img src="card.png" width="800" alt="zkqw3r card">
+  <img src="profile.gif" width="100%" alt="profile.gif">
 </p>
 
 <br/>
